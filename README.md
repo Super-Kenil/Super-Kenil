@@ -16,13 +16,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Super-Kenil/](https://github.com/Super-Kenil/)
 
+- 💫 Checkout my personal Portfolio page at [https://super-kenil.github.io/superkenil/](https://super-kenil.github.io/superkenil/)
+
 - 📝 I regularly write articles on [https://super-kenil.github.io/superkenil/](https://super-kenil.github.io/superkenil/)
 
 - 💬 Ask me about **Next, Nodejs and React Native**
 
-- 📫 How to reach me **example@email.com**
+- 📫 How to reach me **kenilsudani.blog@gmail.com**
 
-- 📄 Know about my experiences [About 2 years](About 2 years)
+- 📄 Know about my experiences **About 2 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
