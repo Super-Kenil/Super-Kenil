@@ -14,6 +14,8 @@
 
 - 🌱 I’m currently learning **Everying that I stumble upon**
 
+- ⚡ If **premature optimization** is the root of all evil, Then I have an **Evil factory**.
+
 - 👨‍💻 All of my projects are available at [https://github.com/Super-Kenil/](https://github.com/Super-Kenil/)
 
 - 💫 Checkout my personal Portfolio page at [https://super-kenil.github.io/superkenil/](https://super-kenil.github.io/superkenil/)
