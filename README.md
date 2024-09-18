@@ -10,23 +10,28 @@
 
 <p align="left"> <a href="https://twitter.com/natkhat_kenil" target="blank"><img src="https://img.shields.io/twitter/follow/natkhat_kenil?logo=twitter&style=for-the-badge" alt="natkhat_kenil" /></a> </p>
 
-- 🔭 I’m currently working on [Discrod Clone](https://github.com/Super-Kenil/discord-nextjs-clone)
+<!-- - 🔭 I’m currently working on [Discrod Clone](https://github.com/Super-Kenil/discord-nextjs-clone) -->
 
-- 🌱 I’m currently learning **Everying that I stumble upon**
+- 🌱 I’m currently learning: **Everying that I stumble upon**
 
 - ⚡ If **premature optimization** is the root of all evil, Then I have an **Evil factory**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Super-Kenil/](https://github.com/Super-Kenil/)
+- 👨‍💻 All of my projects are available [here](https://superkenil.com/projects)
 
-- 💫 Checkout my personal Portfolio page at [https://super-kenil.github.io/superkenil/](https://super-kenil.github.io/superkenil/)
+- 💫 Checkout my personal Portfolio page at [superkenil.com](https://superkenil.com/)
 
-- 📝 I regularly write articles on [https://super-kenil.github.io/superkenil/](https://super-kenil.github.io/superkenil/)
+<!-- - 📝 I regularly write articles on [https://super-kenil.github.io/superkenil/](https://super-kenil.github.io/superkenil/) -->
 
 - 💬 Ask me about **Next, Nodejs and React Native**
 
 - 📫 How to reach me **kenilsudani.blog@gmail.com**
 
-- 📄 Know about my experiences **About 2 years**
+<!-- - 📄 Know about my experiences **About 2 years** -->
+
+<h3 align="left">My Projects on npm:</h3>
+
+- super-detype [docs](https://npmjs.com/package/super-detype) and [downloads](https://npm.chart.dev/super-detype)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
