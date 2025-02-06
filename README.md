@@ -30,7 +30,7 @@
 
 <h3 align="left">My Projects on npm:</h3>
 
-- super-detype [docs](https://npmjs.com/package/super-detype) and [downloads](https://npm.chart.dev/super-detype)
+- super-detype [docs](https://super-detype.superkenil.com/) and [downloads](https://npm.chart.dev/super-detype)
 
 
 <h3 align="left">Connect with me:</h3>
