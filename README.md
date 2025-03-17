@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Next, Nodejs and React Native**
 
-- 📫 How to reach me **kenilsudani.blog@gmail.com**
+- 📫 How to reach me **contact@superkenil.com**
 
 <!-- - 📄 Know about my experiences **About 2 years** -->
 
