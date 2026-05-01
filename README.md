@@ -14,20 +14,20 @@
 
 - ⚡ If **premature optimization** is the root of all evil, Then I have an **Evil factory**.
 
-- 👨‍💻 All of my projects are available [here](https://superkenil.com/projects)
+- 👨‍💻 All of my projects are available [here](https://sknl.dev/project)
 
-- 💫 Checkout my personal Portfolio page at [superkenil.com](https://superkenil.com/)
+- 💫 Checkout my personal Portfolio page at [sknl.dev](https://sknl.dev/)
 
 <!-- - 📝 I regularly write articles on [https://super-kenil.github.io/superkenil/](https://super-kenil.github.io/superkenil/) -->
 
-- 📫 How to reach me **contact@superkenil.com**
+- 📫 How to reach me **hello@sknl.dev**
 
 <!-- - 📄 Know about my experiences **About 2 years** -->
 
 
 <h3 align="left">My Projects on npm:</h3>
 
-- super-detype [docs](https://super-detype.superkenil.com/) and [downloads](https://npm.chart.dev/super-detype)
+- super-detype [docs](https://super-detype.sknl.dev/) and [downloads](https://npm.chart.dev/super-detype)
 
 
 
