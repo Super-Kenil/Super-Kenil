@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=super-kenil&label=Profile%20views&color=0e75b6&style=flat" alt="super-kenil" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=super-kenil&theme=dracula&margin-w=8&margin-h=8&column=4&no-frame=true" alt="super-kenil" /></a> </p>
-
 <!-- - 🔭 I’m currently working on [Discrod Clone](https://github.com/Super-Kenil/discord-nextjs-clone) -->
 
 - 🌱 I’m currently learning: **Everyhthing I stumble upon**
