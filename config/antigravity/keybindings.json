@@ -1,0 +1,93 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "ctrl+shift+i",
+    "command": "editor.emmet.action.matchTag",
+  },
+  {
+    "key": "ctrl+alt+numpad8",
+    "command": "editor.action.insertCursorAbove",
+    "when": "editorTextFocus",
+  },
+  {
+    "key": "ctrl+alt+up",
+    "command": "-editor.action.insertCursorAbove",
+    "when": "editorTextFocus",
+  },
+  {
+    "key": "ctrl+alt+numpad2",
+    "command": "editor.action.insertCursorBelow",
+    "when": "editorTextFocus",
+  },
+  {
+    "key": "ctrl+alt+down",
+    "command": "-editor.action.insertCursorBelow",
+    "when": "editorTextFocus",
+  },
+  {
+    "key": "ctrl+m",
+    "command": "editor.emmet.action.balanceOut",
+  },
+  {
+    "key": "ctrl+shift+q",
+    "command": "workbench.action.quickTextSearch",
+  },
+  {
+    "key": "ctrl+shift+w",
+    "command": "-workbench.action.closeWindow",
+  },
+  {
+    "key": "ctrl+alt+l",
+    "command": "turboConsoleLog.insertConsoleLog",
+    "when": "editorTextFocus",
+  },
+  {
+    "key": "ctrl+k ctrl+l",
+    "command": "-turboConsoleLog.insertConsoleLog",
+    "when": "editorTextFocus",
+  },
+  {
+    "key": "ctrl+alt+i",
+    "command": "-workbench.action.chat.open",
+    "when": "!chatSetupDisabled && !chatSetupHidden",
+  },
+  {
+    "key": "ctrl+alt+i",
+    "command": "-workbench.panel.chat",
+    "when": "workbench.panel.chat.view.copilot.active",
+  },
+  {
+    "key": "ctrl+e",
+    "command": "-antigravity.switchBetweenWorkspaceAndAgent",
+  },
+  {
+    "key": "ctrl+backspace",
+    "command": "-chatEditing.discardAllFiles",
+    "when": "hasUndecidedChatEditingResource && inChatInput && !chatInputHasText",
+  },
+  {
+    "key": "ctrl+backspace",
+    "command": "-antigravity.prioritized.agentRejectAllInFile",
+    "when": "antigravity.agentBarVisible && antigravity.canAcceptOrRejectAllAgentEditsInFile && editorTextFocus",
+  },
+  {
+    "key": "ctrl+l",
+    "command": "-antigravity.toggleChatFocus",
+    "when": "!terminalFocus",
+  },
+  {
+    "key": "ctrl+l",
+    "command": "-expandLineSelection",
+    "when": "textInputFocus",
+  },
+  {
+    "key": "ctrl+l",
+    "command": "-notebook.centerActiveCell",
+    "when": "notebookEditorFocused",
+  },
+  {
+    "key": "ctrl+l",
+    "command": "antigravity.toggleChatFocus",
+    "when": "!terminalFocus"
+  },
+]
