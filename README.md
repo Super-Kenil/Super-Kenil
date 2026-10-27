@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on [Discrod Clone](https://github.com/Super-Kenil/discord-nextjs-clone) -->
 
-- 🌱 I’m currently learning: **Everyhthing I stumble upon**
+- 🌱 I’m currently learning: **Everything I stumble upon**
 
 - ⚡ If **premature optimization** is the root of all evil, Then I have an **Evil factory**.
 
